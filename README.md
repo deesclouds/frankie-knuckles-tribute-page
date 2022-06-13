@@ -9,19 +9,16 @@ This project was built as a tribute to Frankie Knuckles one of the early house m
 
 **Tech used:** HTML, CSS
 
-Following freecodecamp to build out this tribute page to get a deeper understanding of the front end. 
-
 ## Optimizations
 *(optional)*
 
 
 ## Lessons Learned:
+Following freecodecamp to build out this tribute page to get a deeper understanding of the front end. 
 
-
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
 
 ## User Stories:
+These are the tests that the project needs to pass:
 
 - Your tribute page should have an element with a corresponding id="main", which contains all other elements
 - You should see an element with an id of title, which contains a string (i.e. text), that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug")
