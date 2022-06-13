@@ -1,5 +1,5 @@
-# Tribute Page
-This project was built as a tribute to: 
+# Frankie Knuckles 
+This project was built as a tribute to Frankie Knuckles one of the early house music pioneers.
 
 **Link to project:** ()
 
