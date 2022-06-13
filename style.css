@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+
+#title, p{
+    margin-top: 20px;
+    padding-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    color: black;
+    text-align: center;
+}
+#main{
+    width: 75%;
+    height: 75%;
+    border: 2px solid green;
+    overflow: hidden;
+    margin-left: 30px;
+}
+
+#image{
+    width: auto;
+    height: 50%;
+    display: flex;
+    justify-content: column;
+    align-items: center;
+    margin: auto;
+    padding: auto;
+}
+h3, #tribute-info, #img-caption{
+    text-align: center;
+}
+
+#img-caption, h3{
+    padding-bottom: 5px;
+}
+
+ul{
+    text-align: left;
+    padding-top: 20px;
+
+}
