@@ -45,8 +45,23 @@ h3, #tribute-info, #img-caption{
     padding-bottom: 5px;
 }
 
-ul{
+ul, .resource{
     text-align: left;
     padding-top: 20px;
-
+    list-style-type: circle;
+    font-size: 3rem;
+}
+.resource, #tribute-link {
+    font-size: 1.5rem;
+}
+.resource{
+    text-align: center;
+}
+li{
+    padding: 0 0 10px 0;
+}
+span{
+    font-size: 1.5em;
+    padding: 0;
+    margin: 0;
 }
