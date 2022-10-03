@@ -20,11 +20,12 @@
 
 #image{
     width: auto;
-    height: 50%;
-    display: flex;
+    height: auto;
+    display: block;
     justify-content: column;
     align-items: center;
-    margin: auto;
+    margin: 0 auto;
+    max-width: 100%;
     padding: auto;
 }
 h3, #tribute-info, #img-caption{
