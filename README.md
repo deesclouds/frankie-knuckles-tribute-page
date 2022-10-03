@@ -1,7 +1,7 @@
 # Frankie Knuckles 
 This project was built as a tribute to Frankie Knuckles one of the early pioneers for house music.
 
-**Link to project:** ()
+**Link to project:** (https://prismatic-bombolone-b92967.netlify.app)
 
 ![alt tag](image-of-project)
 
