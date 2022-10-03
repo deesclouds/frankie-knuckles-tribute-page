@@ -1,5 +1,5 @@
 # Frankie Knuckles 
-This project was built as a tribute to Frankie Knuckles one of the early house music pioneers.
+This project was built as a tribute to Frankie Knuckles one of the early pioneers for house music.
 
 **Link to project:** ()
 
@@ -10,25 +10,14 @@ This project was built as a tribute to Frankie Knuckles one of the early house m
 **Tech used:** HTML, CSS
 
 ## Optimizations
-*(optional)*
+I continue to learn more about Frankie Knuckles and update this page with any facts and additional information that I learn about this awesome human being. 
+
+Updated the styling that I was having issues with. I've learned additional ways to make a site responsive. 
 
 
 ## Lessons Learned:
-Following freecodecamp to build out this tribute page to get a deeper understanding of the front end. 
+Got this idea from the tribute page from https://freecodecamp.org to build a tribute page on a person that inspired my favorite genre of music. 
 
+## Thank You!
 
-## User Stories:
-These are the tests that the project needs to pass:
-
-- Your tribute page should have an element with a corresponding id="main", which contains all other elements
-- You should see an element with an id of title, which contains a string (i.e. text), that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug")
-- You should see either a figure or a div element with an id of img-div
-- Within the #img-div element, you should see an img element with a corresponding id="image"
-- Within the #img-div element, you should see an element with a corresponding id="img-caption" that contains textual content describing the image shown in #img-div
-- You should see an element with a corresponding id="tribute-info", which contains textual content describing the subject of the tribute page
-- You should see an a element with a corresponding id="tribute-link", which links to an outside site, that contains additional information about the subject of the tribute page. HINT: You must give your element an attribute of target and set it to _blank in order for your link to open in a new tab
-- Your #image should use max-width and height properties to resize responsively, relative to the width of its parent element, without exceeding its original size
-- Your img element should be centered within its parent element
-- Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
-
-Note: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS
+Thank you freecodecamp for providing free education online. 

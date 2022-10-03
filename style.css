@@ -1,7 +1,5 @@
 *{
     box-sizing: border-box;
-    margin: 0;
-    padding: 0;
     background-color: bisque;
 }
 
@@ -15,32 +13,55 @@
     text-align: center;
 }
 #main{
-    width: 75%;
-    height: 75%;
-    border: 2px solid green;
-    overflow: hidden;
+    width: 100%;
+    height: 100%;
     margin-left: 30px;
 }
 
 #image{
     width: auto;
-    height: 50%;
-    display: flex;
+    height: auto;
+    display: block;
     justify-content: column;
     align-items: center;
-    margin: auto;
+    margin: 0 auto;
+    max-width: 100%;
     padding: auto;
 }
 h3, #tribute-info, #img-caption{
     text-align: center;
 }
-
+#tribute-info{
+    max-width: 90%;
+    margin: 0 20% 0 20%;
+}
+#img-caption{
+    font-size: 1.5rem;
+}
+#headline {
+    font-size: 2rem;
+}
 #img-caption, h3{
     padding-bottom: 5px;
 }
 
-ul{
+ul, .resource{
     text-align: left;
     padding-top: 20px;
-
+    list-style-type: circle;
+    font-size: 3rem;
+}
+.resource, #tribute-link {
+    font-size: 1.5rem;
+}
+.resource{
+    text-align: center;
+}
+li{
+    padding: 0 0 10px 0;
+}
+span{
+    font-size: 1.5em;
+    padding: 0;
+    margin: 0;
 }
