@@ -31,6 +31,10 @@
 h3, #tribute-info, #img-caption{
     text-align: center;
 }
+#tribute-info{
+    max-width: 90%;
+    margin: 0 20% 0 20%;
+}
 
 #img-caption, h3{
     padding-bottom: 5px;
