@@ -3,7 +3,7 @@ This project was built as a tribute to Frankie Knuckles one of the early pioneer
 
 **Link to project:** (https://prismatic-bombolone-b92967.netlify.app)
 
-![alt tag](image-of-project)
+![displays preview of frankie knuckles tribute page](https://user-images.githubusercontent.com/77818241/193505743-04d8e65a-d9a5-4b59-ba85-7e52c74af7d1.gif)
 
 ## How It's Made:
 
